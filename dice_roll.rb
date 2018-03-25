@@ -1,5 +1,5 @@
 def roll
-  return rand(1..6)
+  return rand
 end
 
 # Create method `roll` that returns a random number between 1 and 6
